@@ -1,1 +1,1 @@
-https://DanielAvram1.github.io/cscopii
+https://DanielAvram1.github.io/csmcopii
