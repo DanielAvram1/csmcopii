@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/cscopii/static/css/main.0c5cae94.chunk.css",
+    "main.js": "/cscopii/static/js/main.e0c0ef34.chunk.js",
+    "main.js.map": "/cscopii/static/js/main.e0c0ef34.chunk.js.map",
+    "runtime-main.js": "/cscopii/static/js/runtime-main.c6a34e3c.js",
+    "runtime-main.js.map": "/cscopii/static/js/runtime-main.c6a34e3c.js.map",
+    "static/css/2.818011ed.chunk.css": "/cscopii/static/css/2.818011ed.chunk.css",
+    "static/js/2.a83f4f13.chunk.js": "/cscopii/static/js/2.a83f4f13.chunk.js",
+    "static/js/2.a83f4f13.chunk.js.map": "/cscopii/static/js/2.a83f4f13.chunk.js.map",
+    "static/js/3.85ff7fc0.chunk.js": "/cscopii/static/js/3.85ff7fc0.chunk.js",
+    "static/js/3.85ff7fc0.chunk.js.map": "/cscopii/static/js/3.85ff7fc0.chunk.js.map",
+    "index.html": "/cscopii/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/cscopii/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.0c5cae94.chunk.css.map": "/cscopii/static/css/main.0c5cae94.chunk.css.map",
+    "static/js/2.a83f4f13.chunk.js.LICENSE.txt": "/cscopii/static/js/2.a83f4f13.chunk.js.LICENSE.txt",
+    "static/media/announcements.3c27d6f1.jpg": "/cscopii/static/media/announcements.3c27d6f1.jpg",
+    "static/media/home.55209190.jpg": "/cscopii/static/media/home.55209190.jpg",
+    "static/media/logo.6ce24c58.svg": "/cscopii/static/media/logo.6ce24c58.svg",
+    "static/media/news.ac9d43b8.jpg": "/cscopii/static/media/news.ac9d43b8.jpg",
+    "static/media/placeholder.916cd55f.pdf": "/cscopii/static/media/placeholder.916cd55f.pdf",
+    "static/media/transparency.00329346.jpg": "/cscopii/static/media/transparency.00329346.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6a34e3c.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.a83f4f13.chunk.js",
+    "static/css/main.0c5cae94.chunk.css",
+    "static/js/main.e0c0ef34.chunk.js"
+  ]
+}
