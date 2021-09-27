@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "title": "Stomatologie",
+        "description": "Stomatologie- foarte bun, si alte chestii",
+        "doctorList": ["Ion Ceban", "Nicolae Timofti", "Maria Dragan"],
+        "imageName": "tooth.jpeg"
+    },
+    {
+        "id": 1,
+        "title": "Chirurg Maxilo-facial",
+        "description": "Chirurg Maxilo-facial- nu stiu ce face",
+        "doctorList": ["Ion Ceban", "Nicolae Timofti", "Maria Dragan", "Natalia Morari"],
+        "imageName": "maxillary.png"
+    },
+    {
+        "id": 2,
+        "title": "Stomatologie",
+        "description": "Stomatologie- foarte bun, si alte chestii",
+        "doctorList": ["Ion Ceban", "Nicolae Timofti"],
+        "imageName": "tooth.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Stomatologie",
+        "description": "Stomatologie- foarte bun, si alte chestii",
+        "doctorList": ["Ion Ceban"],
+        "imageName": "tooth.jpeg"
+    }
+]

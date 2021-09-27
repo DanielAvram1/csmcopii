@@ -1,0 +1,12 @@
+{
+    "header": "Orar",
+    "list": [
+        ["Luni", "08-18"],
+        ["Marti", "08-18"],
+        ["Miercuri", "08-18"],
+        ["Joi", "08-18"],
+        ["Vineri", "08-18"],
+        ["Sambata", "liber"],
+        ["Duminica", "liber"]
+    ]
+}
